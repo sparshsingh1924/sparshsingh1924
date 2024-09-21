@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @sparshsingh1924
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... DSA and Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ... CODING things
+- 🌱 I’m currently learning ... DSA and Data Analytics
+- 💞️ I’m looking to collaborate on ... Data analytics in Python, DA in Power BI, DA in Tableau, DA in Looker Studio
+- 📫 How to reach me ... LinkedIn- www.linkedin.com/in/sparsh-singh-raghuvanshi
 
-<!---
-sparshsingh1924/sparshsingh1924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
